@@ -60,4 +60,5 @@ if __name__ == "__main__":
 
         print("Ratio %s" % getRatio(prices["ABC"], prices["DEF"]))
 
-git format-patch -2 --stdout > multi_commit.patch
+
+
